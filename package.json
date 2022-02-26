@@ -1,0 +1,23 @@
+{
+  "name": "names-faker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoBelPe/name-faker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoBelPe/name-faker/issues"
+  },
+  "homepage": "https://github.com/DiegoBelPe/name-faker#readme",
+  "dependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.7"
+  }
+}
