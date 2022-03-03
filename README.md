@@ -5,7 +5,7 @@
 ***
 Utilizando la libreria  Faker para imprimir 1000 nombres utilizando nodejs y js
 ### Screenshot
-![Image text](img/code_faker.png)
+![Image text](img/code2.png)
 
 ## pasos de instalacion
 ***
